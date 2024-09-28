@@ -1,6 +1,6 @@
 # Dilma API - Frases Aleatórias da Dilma Rousseff
 
-![GitHub repo size](https://github.com/FlavioLimaJr/Dilma-API) ![GitHub stars](https://github.com/FlavioLimaJr/Dilma-API)
+![GitHub repo size](https://img.shields.io/github/repo-size/FlavioLimaJr/Dilma-API) ![GitHub stars](https://img.shields.io/github/stars/FlavioLimaJr/Dilma-API?style=social)
 
 **Dilma as a Service** - Uma REST API simples para obter frases aleatórias da ex-presidente do Brasil, Dilma Rousseff.
 
